@@ -107,6 +107,8 @@ To get a local copy up and running follow these simple example steps.
 
 GUI fully created by myself, not fancy but definitely robust and clean, prioritizing user experience.
 
+*Press the video to be redirected to YouTube for a full Demon*
+
 [![Hospital Management System Video Demo](https://img.youtube.com/vi/GMwysgPQYoQ/maxresdefault.jpg)](https://youtu.be/GMwysgPQYoQ "Watch the Showcase on YouTube")
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
